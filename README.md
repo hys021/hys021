@@ -6,8 +6,7 @@
 
 ![멋쟁이사자처럼 14기](https://img.shields.io/badge/%F0%9F%A6%81%20멋쟁이사자처럼%2014기-백엔드%20활동%20중-f57f17?style=flat-square&labelColor=24292f)
 
-한 번 시작한 프로젝트는 동작할 때까지 놓지 않습니다.<br/>
-교내 프로젝트와 미니 프로젝트 · 아이디어톤 · 해커톤을 연달아 거치며,<br/>
+교내 프로젝트 · 미니 프로젝트 · 아이디어톤 · 해커톤을 연달아 거치며,<br/>
 서버를 처음부터 설계하고 끝까지 배포해 봤습니다.
 
 
@@ -44,33 +43,38 @@
 
 ## 📌 Projects
 
-<a href="https://github.com/hys021/BloomFrame-BACK-END">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hys021&repo=BloomFrame-BACK-END&theme=graywhite&hide_border=true&icon_color=6DB33F" height="120" alt="BloomFrame-BACK-END"/>
-</a>
-<a href="https://github.com/hys021/Ghost_Test-BACK-END">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hys021&repo=Ghost_Test-BACK-END&theme=graywhite&hide_border=true&icon_color=6DB33F" height="120" alt="Ghost_Test-BACK-END"/>
-</a>
-<a href="https://github.com/hys021/game_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hys021&repo=game_project&theme=graywhite&hide_border=true&icon_color=6DB33F" height="120" alt="game_project"/>
-</a>
-
 ### 🌸 BloomFrame — 멋쟁이사자처럼 중앙 해커톤 **트랙 3위**
 
 6070 어르신의 복약·운동을 IoT 액자 터치 한 번으로 인증하는 서비스의 백엔드.<br/>
 Firestore 단일 NoSQL 설계, 서버에서 직접 시각을 계산하는 1차/2차 인증 판정, Gemini 기반 약봉지 OCR과 AI 뉴스레터를 구현했습니다.
 
+[![Repo](https://img.shields.io/badge/Repository-BloomFrame--BACK--END-24292f?style=flat-square&logo=github)](https://github.com/hys021/BloomFrame-BACK-END)
+![Top Language](https://img.shields.io/github/languages/top/hys021/BloomFrame-BACK-END?style=flat-square&color=b07219)
+
 `Spring Boot` `Firestore` `JWT` `Cloudflare R2` `FCM` `Gemini API`
+
+<br>
 
 ### 👻 귀신 유형 테스트 — 멋쟁이사자처럼 미니 프로젝트
 
 호러 스토리 8문항으로 MBTI를 계산해 16종 한국 귀신과 매칭하는 심리테스트 백엔드.<br/>
 결과 위변조를 막기 위해 계산 책임을 전부 서버에 두고, 자기참조 FK로 귀신 간 궁합 관계를 표현했습니다.
 
+[![Repo](https://img.shields.io/badge/Repository-Ghost__Test--BACK--END-24292f?style=flat-square&logo=github)](https://github.com/hys021/Ghost_Test-BACK-END)
+![Top Language](https://img.shields.io/github/languages/top/hys021/Ghost_Test-BACK-END?style=flat-square&color=b07219)
+
 `Spring Boot` `JPA` `MySQL` `REST API 설계`
+
+<br>
 
 ### 🎮 game_project
 
-C++로 구현한 간단한 점프 게임. 협업으로 진행한 첫 프로젝트입니다.
+C++로 구현한 슬라임 점프 게임.<br/>
+WASD와 Space Bar를 이용한 간단한 조작법을 통해 꼭대기까지 올라가는 게임입니다.<br/>
+플레이의 난이도를 높여줄 여러 기능을 가진 플랫폼을 구현했습니다.
+
+[![Repo](https://img.shields.io/badge/Repository-game__project-24292f?style=flat-square&logo=github)](https://github.com/hys021/game_project)
+![Top Language](https://img.shields.io/github/languages/top/hys021/game_project?style=flat-square&color=f34b7d)
 
 `C++`
 
@@ -96,10 +100,5 @@ C++로 구현한 간단한 점프 게임. 협업으로 진행한 첫 프로젝�
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hys021&show_icons=true&hide_border=true&title_color=24292f&icon_color=6DB33F&theme=graywhite&hide=issues" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hys021&layout=compact&hide_border=true&title_color=24292f&theme=graywhite" height="160" alt="Top Languages"/>
 
 </div>
