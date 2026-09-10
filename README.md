@@ -14,6 +14,19 @@
 
 ---
 
+## 📮 Contact
+
+<div align="center">
+
+<a href="mailto:hin0106@naver.com"><img src="https://img.shields.io/badge/hin0106@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"/></a>
+<!-- 블로그가 생기면 아래 주석을 풀고 주소만 바꿔 쓰세요.
+<a href="https://블로그주소"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"/></a>
+-->
+
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 **Language**
@@ -87,17 +100,6 @@ WASD와 Space Bar를 이용한 간단한 조작법을 통해 꼭대기까지 올
 - 관계형 DB(MySQL)와 NoSQL(Firestore) 각각의 설계 트레이드오프 정리
 
 ---
-
-## 📮 Contact
-
-<div align="center">
-
-<a href="mailto:hin0106@naver.com"><img src="https://img.shields.io/badge/hin0106@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"/></a>
-<!-- 블로그가 생기면 아래 주석을 풀고 주소만 바꿔 쓰세요.
-<a href="https://블로그주소"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"/></a>
--->
-
-</div>
 
 ---
 
