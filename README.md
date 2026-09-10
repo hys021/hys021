@@ -58,7 +58,7 @@
 
 ### 🌸 BloomFrame — 멋쟁이사자처럼 중앙 해커톤 **트랙 3위**
 
-6070 어르신의 복약·운동을 IoT 액자 터치 한 번으로 인증하는 서비스의 백엔드.<br/>
+6070 어르신의 복약 · 운동 · 기타 알림을 IoT 액자 터치 한 번으로 인증하는 서비스의 백엔드.<br/>
 Firestore 단일 NoSQL 설계, 서버에서 직접 시각을 계산하는 1차/2차 인증 판정, Gemini 기반 약봉지 OCR과 AI 뉴스레터를 구현했습니다.
 
 [![Repo](https://img.shields.io/badge/Repository-BloomFrame--BACK--END-24292f?style=flat-square&logo=github)](https://github.com/hys021/BloomFrame-BACK-END)
@@ -70,7 +70,7 @@ Firestore 단일 NoSQL 설계, 서버에서 직접 시각을 계산하는 1차/2
 
 ### 👻 귀신 유형 테스트 — 멋쟁이사자처럼 미니 프로젝트
 
-호러 스토리 8문항으로 MBTI를 계산해 16종 한국 귀신과 매칭하는 심리테스트 백엔드.<br/>
+공포 스토리의 테스트를 통해 MBTI를 계산해 16종의 다양한 귀신과 매칭하는 심리테스트 백엔드.<br/>
 결과 위변조를 막기 위해 계산 책임을 전부 서버에 두고, 자기참조 FK로 귀신 간 궁합 관계를 표현했습니다.
 
 [![Repo](https://img.shields.io/badge/Repository-Ghost__Test--BACK--END-24292f?style=flat-square&logo=github)](https://github.com/hys021/Ghost_Test-BACK-END)
